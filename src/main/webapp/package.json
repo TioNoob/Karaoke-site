@@ -1,0 +1,14 @@
+{
+  "name": "karaoke-site",
+  "version": "1.0.0",
+  "description": "Site para solicitações de músicas de Karaoke",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Arthur Lyrio de Oliveira",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "eslint": "^5.7.0"
+  }
+}
